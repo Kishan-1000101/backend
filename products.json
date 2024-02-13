@@ -1,0 +1,17 @@
+[
+  
+
+{
+  "body_temperature": 36.7,
+  "pulse_rate": 78,
+  "bmi": 23.4,
+  "human_presence": true,
+  "medicine_reminder": {
+    "hour": 8,
+    "minute": 30,
+    "second": 0
+ }
+}
+]
+
+
